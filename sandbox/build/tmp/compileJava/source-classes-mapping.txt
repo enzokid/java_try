@@ -1,2 +1,2 @@
-MyJ.java
- MyJ
+ru/grd/jtry/sandbox/MyJ.java
+ ru.grd.jtry.sandbox.MyJ
