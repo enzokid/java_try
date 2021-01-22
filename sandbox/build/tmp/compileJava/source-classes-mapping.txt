@@ -1,2 +1,6 @@
+ru/grd/jtry/sandbox/Square.java
+ ru.grd.jtry.sandbox.Square
+ru/grd/jtry/sandbox/Rectangle.java
+ ru.grd.jtry.sandbox.Rectangle
 ru/grd/jtry/sandbox/MyJ.java
  ru.grd.jtry.sandbox.MyJ
